@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hi Buddy</string>
+    <string name="user_name">Enter your username</string>
+    <string name="user_pwd">Your Password</string>
+    <string name="btn_login">Enter</string>
+    <string name="full_name">Enter your full name</string>
+    <string name="email">Your email@email.com</string>
+    <string name="contact">Contact number example: +60123456789</string>
+    <string name="dob">Your DOB eg: 27/8/2000</string>
+
+    <string name="expensesFor">Expenses for</string>
+    <string name="dateExpenses">Date expenses eg: 27/8/2000</string>
+    <string name="currencyRM">RM</string>
+    <string name="totalPriceRM">Total Price RM: </string>
+    <string name="save">Save</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtRegister">Register</string>
+    <string name="txtExpensesForm">Expenses Form</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
